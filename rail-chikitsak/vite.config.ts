@@ -7,11 +7,20 @@ import { nitro } from "nitro/vite";
 
 export default defineConfig({
   server: { port: 8080 },
+
+  ssr: {
+    optimizeDeps: {
+      include: [
+        "@tanstack/react-start",
+        "@tanstack/start-client-core",
+      ],
+    },
+  },
+
   plugins: [
     tailwindcss(),
     tsConfigPaths({ projects: ["./tsconfig.json"] }),
     tanstackStart({
-      // Custom SSR entry (src/server.ts) wraps errors in a friendly page.
       server: { entry: "server" },
     }),
     nitro({ preset: process.env["NITRO_PRESET"] || "vercel" }),
