@@ -385,10 +385,15 @@ Rail Chikitsak is a **hackathon prototype**. It is not a medical device and does
 
 ## 👥 Team
 
+
 | Name | Role | Links |
 |---|---|---|
-| **Akshat G.** | `[Role]` | [GitHub](https://github.com/Akshat19G) |
-| `[Teammate]` | `[Role]` | `[Link]` |
+| **Akshat Srivastava** | Team Leader | [GitHub](https://github.com/Akshat19G) |
+| **Harsh Mudiya** | Team Member | — |
+| **Anisha Singh** | Team Member | — |
+| **Gauri Borhade** | Team Member | — |
+| **Ansh** | Team Member | — |
+| **Kaushal Bhalerao** | Team Member | — |
 
 Built for **[Hackathon Name]**, 2026.
 
