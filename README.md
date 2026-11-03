@@ -395,7 +395,7 @@ Rail Chikitsak is a **hackathon prototype**. It is not a medical device and does
 | **Ansh** | Team Member | — |
 | **Kaushal Bhalerao** | Team Member | — |
 
-Built for **[Hackathon Name]**, 2026.
+Built for **[Smart India Hackathon]**, 2026.
 
 ---
 
